@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The internet's most accurate prediction of Triple J's Hottest 100 for 2016, updated daily.">
+    <meta name="author" content="Nick Whyte">
+    <meta property="og:image" content="http://nickwhyte.com/100-warm-tunas-2016/img/hottest-100.jpg"/>
+
+    <title>100 Warm Tunas 2016</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    
+    <!-- Theme CSS -->
+    <link href="css/new-age.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top">
+    <header class="with-background">
+        <div class="container">
+            <div class="header-content">
+                <div class="header-content-inner">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-7 col-md-9">
+                            <h1 style="margin-bottom: 5px">100 Warm Tunas <small style="color: #fff; font-size: 0.5em">2016</small></h1>
+                            <p>The internet's most accurate prediction of Triple J's Hottest 100 for 2016, updated daily.</p>
+                            <p>We collect screenshots posted to Instagram tagged with the hashtags 
+                            {% for name, link in tags -%}
+                            <a target="_blank" href="{{link}}">{{ name }}</a>, &nbsp;
+                            {%- endfor -%} to provide you with an accurate list of songs which could appear in the list this Hottest 100 day.</p>
+                            <p>So far <strong>{{ total_vote_count }}</strong> votes have been counted across <strong>{{ total_image_count }}</strong> images, equating to a sample size of about <strong>{{total_image_perc}}</strong><sup>+</sup></p>
+                            <p style="font-size:0.8em">100 Warm Tunas is an experiment by <a href="https://nickwhyte.com">Nick Whyte</a>, based on <a href="https://nickwhyte.com/post/2016/predicting-triple-j-hottest-100-2015/">inroads made during the Hottest 100 of 2015</a>. 100 Warm Tunas was inspired by the work of the team who put together <a href="http://warmest100.com.au/">warmest100.com.au</a>. Data was last processed <date>{{ last_processed }}</date>. </p>
+                            <p><a target="_blank" class="plain-link" href="https://open.spotify.com/user/1230974131/playlist/7Jnyqhm6sOeYwVRwFV21uO"><i class="fa fa-spotify" aria-hidden="true"></i>&nbsp;Listen on Spotify</a></p>
+                        </div>
+                        <div class="hidden-xs col-sm-5 col-md-3">
+                            <iframe style="width: 100%; margin-top: 40px" src="https://embed.spotify.com/?uri=spotify%3Auser%3A1230974131%3Aplaylist%3A7Jnyqhm6sOeYwVRwFV21uO" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    {% for section in sections %}
+    <section id="{{section.slug}}" class="countdown {{ section.classes }}">
+        <div class="container">
+            <h2 class="section-heading">#{{ section.start }} &rarr; #{{ section.stop }}</h2>
+            <ul style="border-left: 3px solid #eee">
+                {% for entry in section.tracks %}
+                <li>
+                    <div class="position">{{ entry.position }}</div>
+                    <div class="trackinfo">
+                        <div class="title">{{ entry.track.title }}</div>
+                        <div class="artist">{{ entry.track.artist.name }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; {{ entry.num_votes }} Votes &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; {{  entry.percentage }} Voted for this song&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="listen-link" href="javascript:playtrack('{{ entry.track.previewLink }}')">Listen</a></div>
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </section>
+    {% endfor %}
+
+    <section class="footer">
+        <div class="container">
+            <p>&copy; <a href="https://nickwhyte.com">Nick Whyte</a> | <a href="https://github.com/nickw444/100-warm-tunas-2016">View Source on Github</a></p>
+            <p>Last updated {{ last_updated.isoformat() }}</p>
+            <p><sup>+</sup> Sample size based on 2015 total entries count of 209435</p>
+        </div>
+    </section>
+    
+    <audio controls id="player" class="hidden">
+        Your browser does not support the audio element.
+    </audio>
+
+</body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35049161-5', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript">
+    function playtrack(trackurl) {
+        var player = document.getElementById('player')
+        player.className = ""
+        player.setAttribute('src', trackurl)
+        player.play()
+    }
+
+</script>
+</html>
+
