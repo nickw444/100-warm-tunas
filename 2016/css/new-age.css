@@ -359,3 +359,23 @@ a.plain-link:focus,
 a.plain-link:active {
   color: #fff;
 }
+
+.cross-promo {
+  color: #fff;
+  background-color: rgba(0,0,0,0.6);
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+
+  position:fixed;
+  top:0px;
+  left:0px;
+  right:0px;
+  z-index:10;
+}
+
+@media (max-width: 768px) {
+  .cross-promo {
+    font-size: 18px;
+  }
+}
