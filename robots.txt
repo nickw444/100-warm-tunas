@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://100warmtunas.com/sitemap.xml
