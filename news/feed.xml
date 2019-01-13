@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://100warmtunas.com/news/feed.xml" rel="self" type="application/atom+xml" /><link href="https://100warmtunas.com/news/" rel="alternate" type="text/html" /><updated>2019-01-13T11:20:51+00:00</updated><id>https://100warmtunas.com/news/feed.xml</id><title type="html">100 Warm Tunas News</title><subtitle>The internet's most accurate prediction of Triple J's Hottest 100 for 2018, updated daily.</subtitle><entry><title type="html">Biased Sample Fixed</title><link href="https://100warmtunas.com/news/2019/01/biased-sample-fixed/" rel="alternate" type="text/html" title="Biased Sample Fixed" /><published>2019-01-13T00:00:00+00:00</published><updated>2019-01-13T00:00:00+00:00</updated><id>https://100warmtunas.com/news/2019/01/biased-sample-fixed</id><content type="html" xml:base="https://100warmtunas.com/news/2019/01/biased-sample-fixed/">&lt;p&gt;As of this morning (13 Jan) we have begun excluding votes collected from a handful of Triple J Facebook meme groups as it was found the data being collected had a strong bias to particular artists and was not representative of the data collected from other social networks.&lt;/p&gt;
+
+&lt;h3 id=&quot;facebook-images-strong-bias&quot;&gt;Facebook Images (Strong Bias)&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Position&lt;/th&gt;
+      &lt;th&gt;Song&lt;/th&gt;
+      &lt;th&gt;% voted&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Confidence - Ocean Alley&lt;/td&gt;
+      &lt;td&gt;29.31%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;Dinosaurs - Ruby Fields&lt;/td&gt;
+      &lt;td&gt;28.28%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;Like People - DZ Deathrays&lt;/td&gt;
+      &lt;td&gt;21.38%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;Join The Club - Hockey Dad&lt;/td&gt;
+      &lt;td&gt;20.69%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;Up In The Clouds - Skegss&lt;/td&gt;
+      &lt;td&gt;19.66%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;Sweet Release - Hockey Dad&lt;/td&gt;
+      &lt;td&gt;18.97%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;Scream Whole - Methyl Ethel&lt;/td&gt;
+      &lt;td&gt;17.59%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;Groceries - Mallrat&lt;/td&gt;
+      &lt;td&gt;12.07%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;The Perfect Life Does Not Exist - Ball Park Music&lt;/td&gt;
+      &lt;td&gt;11.38%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;When I Dream - San Cisco&lt;/td&gt;
+      &lt;td&gt;11.03%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;instagram-images&quot;&gt;Instagram Images&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Position&lt;/th&gt;
+      &lt;th&gt;Song&lt;/th&gt;
+      &lt;th&gt;% voted&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Confidence - Ocean Alley&lt;/td&gt;
+      &lt;td&gt;15.56%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;This Is America - Childish Gambino&lt;/td&gt;
+      &lt;td&gt;12.89%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;Dinosaurs - Ruby Fields&lt;/td&gt;
+      &lt;td&gt;10.77%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;I Said Hi - Amy Shark&lt;/td&gt;
+      &lt;td&gt;9.46%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;I’m Good - Wafia&lt;/td&gt;
+      &lt;td&gt;8.91%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;Losing It - FISHER&lt;/td&gt;
+      &lt;td&gt;8.66%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;MANTRA - Bring Me The Horizon&lt;/td&gt;
+      &lt;td&gt;8.54%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;Groceries - Mallrat&lt;/td&gt;
+      &lt;td&gt;7.90%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Be Alright - Dean Lewis&lt;/td&gt;
+      &lt;td&gt;7.79%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;Like People - DZ Deathrays&lt;/td&gt;
+      &lt;td&gt;7.77%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The bias is clear when you look at the percentage of people voting for each song. There is a significantly larger set of users voting for particular songs on Facebook which makes the sample an obvious outlier.&lt;/p&gt;
+
+&lt;p&gt;In summary, a large amount was removed due to the exclusion of Facebook votes, and therefore a decrease in sample size can be observed.&lt;/p&gt;</content><author><name>Nick Whyte</name></author><summary type="html">As of this morning (13 Jan) we have begun excluding votes collected from a handful of Triple J Facebook meme groups as it was found the data being collected had a strong bias to particular artists and was not representative of the data collected from other social networks.</summary></entry><entry><title type="html">New Hashtags</title><link href="https://100warmtunas.com/news/2019/01/new-hashtags/" rel="alternate" type="text/html" title="New Hashtags" /><published>2019-01-13T00:00:00+00:00</published><updated>2019-01-13T00:00:00+00:00</updated><id>https://100warmtunas.com/news/2019/01/new-hashtags</id><content type="html" xml:base="https://100warmtunas.com/news/2019/01/new-hashtags/">&lt;p&gt;We have added some additional hashtags that are collected during our scraping process. These additions consist of some common voting terms and misspellings of other hashtags.&lt;/p&gt;
+
+&lt;p&gt;A small number of additional votes were added to the sample set due to this change.&lt;/p&gt;</content><author><name>Nick Whyte</name></author><summary type="html">We have added some additional hashtags that are collected during our scraping process. These additions consist of some common voting terms and misspellings of other hashtags.</summary></entry><entry><title type="html">Introducing 100 Warm Tunas News</title><link href="https://100warmtunas.com/news/2019/01/introducing-100-warm-tunas-news/" rel="alternate" type="text/html" title="Introducing 100 Warm Tunas News" /><published>2019-01-12T00:00:00+00:00</published><updated>2019-01-12T00:00:00+00:00</updated><id>https://100warmtunas.com/news/2019/01/introducing-100-warm-tunas-news</id><content type="html" xml:base="https://100warmtunas.com/news/2019/01/introducing-100-warm-tunas-news/">&lt;p&gt;Historically it’s been difficult to communicate changes made to the data collection process that result in the rankings and counts decreasing/changing dramatically.&lt;/p&gt;
+
+&lt;p&gt;For this reason, I have introduced a “news” website, which is a simple blog that will be used to communicate such events.&lt;/p&gt;
+
+&lt;p&gt;In addition to these, it will become the new home of analysis posts and other information about the site. I have ported all of the 100 Warm Tunas content from &lt;a href=&quot;https://nickwhyte.com&quot;&gt;nickwhyte.com&lt;/a&gt; over to this site.&lt;/p&gt;</content><author><name>Nick Whyte</name></author><summary type="html">Historically it’s been difficult to communicate changes made to the data collection process that result in the rankings and counts decreasing/changing dramatically.</summary></entry><entry><title type="html">100 Warm Tunas has a new home!</title><link href="https://100warmtunas.com/news/2018/11/100-warm-tunas-has-a-new-home/" rel="alternate" type="text/html" title="100 Warm Tunas has a new home!" /><published>2018-11-01T00:00:00+00:00</published><updated>2018-11-01T00:00:00+00:00</updated><id>https://100warmtunas.com/news/2018/11/100-warm-tunas-has-a-new-home</id><content type="html" xml:base="https://100warmtunas.com/news/2018/11/100-warm-tunas-has-a-new-home/">&lt;p&gt;100 Warm Tunas has found a new home this year! This year’s results, along with the past 2 years can now be found at &lt;a href=&quot;https://100warmtunas.com&quot;&gt;100warmtunas.com&lt;/a&gt;. The existing domain (&lt;a href=&quot;https://100-warm-tunas.nickwhyte.com/&quot;&gt;100-warm-tunas.nickwhyte.com&lt;/a&gt;) will simply perform a &lt;code class=&quot;highlighter-rouge&quot;&gt;301&lt;/code&gt; permanent redirect to the new domain, so all existing inbound links should be unaffected.&lt;/p&gt;</content><author><name>Nick Whyte</name></author><summary type="html">100 Warm Tunas has found a new home this year! This year’s results, along with the past 2 years can now be found at 100warmtunas.com. The existing domain (100-warm-tunas.nickwhyte.com) will simply perform a 301 permanent redirect to the new domain, so all existing inbound links should be unaffected.</summary></entry><entry><title type="html">Prediction Analysis 2017</title><link href="https://100warmtunas.com/news/2018/02/prediction-analysis-2017/" rel="alternate" type="text/html" title="Prediction Analysis 2017" /><published>2018-02-16T00:00:00+00:00</published><updated>2018-02-16T00:00:00+00:00</updated><id>https://100warmtunas.com/news/2018/02/prediction-analysis-2017</id><content type="html" xml:base="https://100warmtunas.com/news/2018/02/prediction-analysis-2017/">&lt;p&gt;Over the space of 6 weeks, &lt;a href=&quot;https://100warmtunas.com/2017/&quot;&gt;100 Warm Tunas&lt;/a&gt; collected a large sum of data and chugged away at it to make some predictions about what the Hottest 100 of 2017 would look like. Along the way we encountered &lt;a href=&quot;/news/2018/01/2017-update/&quot;&gt;a bug&lt;/a&gt; in the collection process, however data was backfilled and showed that I had collected a sample size around the same as in &lt;a href=&quot;https://100warmtunas.com/2016/&quot;&gt;2016&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;100 Warm Tunas collected &lt;strong&gt;7,216 entries&lt;/strong&gt; (7.3% less than 2016 🔻)&lt;/li&gt;
+  &lt;li&gt;100 Warm Tunas tallied &lt;strong&gt;67,085&lt;/strong&gt; votes across these entries (2.6% more than 2017 🔺). This is due to improvements in 100 Warm Tunas’ counting and recognition process.&lt;/li&gt;
+  &lt;li&gt;Triple J counted &lt;strong&gt;2,386,133 votes&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Therefore, 100 Warm Tunas, collected a sample of &lt;strong&gt;2.8%&lt;/strong&gt;. Not bad! (The same as in 2016).&lt;/li&gt;
+  &lt;li&gt;Warm Tunas predicted &lt;strong&gt;8 out of the top 10 songs&lt;/strong&gt; (Same as 2016) (Ignoring order)&lt;/li&gt;
+  &lt;li&gt;Warm Tunas predicted &lt;strong&gt;16 out of the top 20 songs&lt;/strong&gt; (3 less than in 2016, where 19 out of 20 were predicted) (Ignoring order).&lt;/li&gt;
+  &lt;li&gt;Warm Tunas predicted &lt;strong&gt;83 out of the 100 songs&lt;/strong&gt; played in the countdown. (1 less than in 2016) (Ignoring order)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Overall, even though the sample size was reasonably consistent between 2016 and 2017, it is clear that the results collected in 2016 were more accurate.&lt;/p&gt;
+
+&lt;h3 id=&quot;technical-analysis&quot;&gt;Technical Analysis&lt;/h3&gt;
+
+&lt;p&gt;The results this year definitely show a more accurate 1st place prediction (predicting HUMBLE. to win), as opposed to last year where the top two positions were placed out of order, however looking at the data, it looks as though all other aspects of the prediction stayed almost the same.&lt;/p&gt;
+
+&lt;p&gt;To start this analysis, lets take a look at the top 10 of the official countdown and match it up with their predicted places in Warm Tunas:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Artist&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;ABC Rank&lt;/th&gt;
+      &lt;th&gt;Tunas Rank&lt;/th&gt;
+      &lt;th&gt;Difference&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Kendrick Lamar&lt;/td&gt;
+      &lt;td&gt;HUMBLE.&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gang Of Youths&lt;/td&gt;
+      &lt;td&gt;Let Me Down Easy&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Angus &amp;amp; Julia Stone&lt;/td&gt;
+      &lt;td&gt;Chateau&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Methyl Ethel&lt;/td&gt;
+      &lt;td&gt;Ubu&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gang Of Youths&lt;/td&gt;
+      &lt;td&gt;The Deepest Sighs, The Frankest Shadows&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lorde&lt;/td&gt;
+      &lt;td&gt;Green Light&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PNAU&lt;/td&gt;
+      &lt;td&gt;Go Bang&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Thundamentals&lt;/td&gt;
+      &lt;td&gt;Sally {Ft. Mataya}&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Vance Joy&lt;/td&gt;
+      &lt;td&gt;Lay It On Me&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gang Of Youths&lt;/td&gt;
+      &lt;td&gt;What Can I Do If The Fire Goes Out?&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BROCKHAMPTON&lt;/td&gt;
+      &lt;td&gt;SWEET&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Peking Duk &amp;amp; AlunaGeorge&lt;/td&gt;
+      &lt;td&gt;Fake Magic&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Khalid&lt;/td&gt;
+      &lt;td&gt;Young Dumb &amp;amp; Broke&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lorde&lt;/td&gt;
+      &lt;td&gt;Homemade Dynamite&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Vera Blue&lt;/td&gt;
+      &lt;td&gt;Regular Touch&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jungle Giants, The&lt;/td&gt;
+      &lt;td&gt;Feel The Way I Do&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Baker Boy&lt;/td&gt;
+      &lt;td&gt;Marryuna {Ft. Yirrmal}&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ball Park Music&lt;/td&gt;
+      &lt;td&gt;Exactly How You Are&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Killers, The&lt;/td&gt;
+      &lt;td&gt;The Man&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Peking Duk&lt;/td&gt;
+      &lt;td&gt;Let You Down {Ft. Icona Pop}&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;38&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Lets pull apart this table and grab some statistics about how we did with our prediction:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Predicted&lt;/th&gt;
+      &lt;th&gt;Out Of Top N&lt;/th&gt;
+      &lt;th&gt;Percentage&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;80.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;80.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;73.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;33&lt;/td&gt;
+      &lt;td&gt;40&lt;/td&gt;
+      &lt;td&gt;82.5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;42&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+      &lt;td&gt;84.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;50&lt;/td&gt;
+      &lt;td&gt;60&lt;/td&gt;
+      &lt;td&gt;83.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;62&lt;/td&gt;
+      &lt;td&gt;70&lt;/td&gt;
+      &lt;td&gt;88.6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;68&lt;/td&gt;
+      &lt;td&gt;80&lt;/td&gt;
+      &lt;td&gt;85.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;78&lt;/td&gt;
+      &lt;td&gt;90&lt;/td&gt;
+      &lt;td&gt;86.7%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;83&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+      &lt;td&gt;83.0%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;So from the above data, it’s apparent that once again:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The average error for the top ten ranks was &lt;code class=&quot;highlighter-rouge&quot;&gt;2.2&lt;/code&gt; positions (an increase from 2016’s &lt;code class=&quot;highlighter-rouge&quot;&gt;1.9&lt;/code&gt; positions)&lt;/li&gt;
+  &lt;li&gt;Warm Tunas predicted &lt;strong&gt;8 out of the top 10 songs&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Warm Tunas predicted &lt;strong&gt;16 out of the top 20 songs&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Warm Tunas predicted &lt;strong&gt;83 out of the 100 songs&lt;/strong&gt; played in the countdown.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s not a bad result at all!&lt;/p&gt;
+
+&lt;p&gt;The average rank prediction error, grouped into divisions of 10 is provided below. It shows that it’s difficult to predict where songs will place once you leave the top 50:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ABC Position&lt;/th&gt;
+      &lt;th&gt;Warm Tunas Avg Error&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1-10&lt;/td&gt;
+      &lt;td&gt;1.9000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11-20&lt;/td&gt;
+      &lt;td&gt;8.2000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;21-30&lt;/td&gt;
+      &lt;td&gt;14.3000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;31-40&lt;/td&gt;
+      &lt;td&gt;12.5000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;41-50&lt;/td&gt;
+      &lt;td&gt;15.2000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;51-60&lt;/td&gt;
+      &lt;td&gt;24.7000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;61-70&lt;/td&gt;
+      &lt;td&gt;18.2000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;71-80&lt;/td&gt;
+      &lt;td&gt;29.9000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;81-90&lt;/td&gt;
+      &lt;td&gt;34.1000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;91-100&lt;/td&gt;
+      &lt;td&gt;29.5000&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;To compare Warm Tuna’s predictions vs actual rankings, a scatter plot has been provided below. We can see as we get
+closer to rank 1, the 100 Warm Tunas prediction gets better and converges upon the actual rankings played out on the day.&lt;/p&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;480&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;//plot.ly/~nickw444/3.embed&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Fortunately this year around, 100 Warm Tunas was able to successfully predict the winner of the countdown. The reason this prediction was able to be made was because the sample collected clearly indicated &lt;em&gt;HUMBLE.&lt;/em&gt; as an outlier. – an entire 5% higher than the next track, predicted to place 2nd.&lt;/p&gt;
+
+&lt;p&gt;Anyway, that’s a wrap. See you later this year for 100 Warm Tunas 2018 edition!&lt;/p&gt;</content><author><name>Nick Whyte</name></author><summary type="html">Over the space of 6 weeks, 100 Warm Tunas collected a large sum of data and chugged away at it to make some predictions about what the Hottest 100 of 2017 would look like. Along the way we encountered a bug in the collection process, however data was backfilled and showed that I had collected a sample size around the same as in 2016.</summary></entry><entry><title type="html">2017 Update</title><link href="https://100warmtunas.com/news/2018/01/2017-update/" rel="alternate" type="text/html" title="2017 Update" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>https://100warmtunas.com/news/2018/01/2017-update</id><content type="html" xml:base="https://100warmtunas.com/news/2018/01/2017-update/">&lt;p&gt;100 Warm Tunas has been happily chugging away for the last month or so. I’ve obtained a fair amount of media coverage too.&lt;/p&gt;
+
+&lt;p&gt;A couple of days back, I posted the site to the &lt;a href=&quot;https://reddit.com/r/triplej&quot;&gt;triplej subreddit&lt;/a&gt;. Someone replied to the post telling me my vote count was significantly less than what they had been counting by hand, which made me somewhat suspicious – was there a bug in my Instagram scraping library that I built?&lt;/p&gt;
+
+&lt;p&gt;Well, after a bit of debugging early this morning, I found that there was indeed a bug. Not a bug with my scraping library, but rather a bug with how I was using the library:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-patch&quot; data-lang=&quot;patch&quot;&gt;&lt;span class=&quot;gd&quot;&gt;-    for page in ig.fetch_pages('triplej', per_page=10):
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+    for page in ig.fetch_pages(hashtag, per_page=10):
+&lt;/span&gt;         for post in page.posts:
+             if post.is_video:
+                 logger.info(&quot;Skipping {} because it's a video&quot;.format(post.shortcode))&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;For those who are programmers, you’ll probably spot the issue here. For those who aren’t, the issue is that I have been using a hardcoded string to collect Instagram votes, when I thought I was collecting a handful of hashtags.&lt;/p&gt;
+
+&lt;p&gt;This has now been rectified and I have kicked off a full re-scrape to back-fill the data.&lt;/p&gt;</content><author><name>Nick Whyte</name></author><summary type="html">100 Warm Tunas has been happily chugging away for the last month or so. I’ve obtained a fair amount of media coverage too.</summary></entry><entry><title type="html">100 Warm Tunas 2017</title><link href="https://100warmtunas.com/news/2017/12/100-warm-tunas-2017/" rel="alternate" type="text/html" title="100 Warm Tunas 2017" /><published>2017-12-17T00:00:00+00:00</published><updated>2017-12-17T00:00:00+00:00</updated><id>https://100warmtunas.com/news/2017/12/100-warm-tunas-2017</id><content type="html" xml:base="https://100warmtunas.com/news/2017/12/100-warm-tunas-2017/">&lt;p&gt;Last year I predicted the top 3 in Triple J’s hottest 100 (ignoring order). This year I’m back at it once again &lt;a href=&quot;https://100warmtunas.com/2017/&quot;&gt;with an updated webpage and a Spotify playlist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Results are collected, optimised, and processed multiple times per day. Instagram images tagged with #hottest100 and a few others are included for counting.&lt;/p&gt;
+
+&lt;p&gt;Happy voting!&lt;/p&gt;
+
+&lt;p&gt;Feel free to check out &lt;a href=&quot;https://100warmtunas.com/2016/&quot;&gt;the results from 2016&lt;/a&gt;, &lt;a href=&quot;/news/2017/12/prediction-analysis-2016/&quot;&gt;2016 results analysis&lt;/a&gt;, and &lt;a href=&quot;https://nickwhyte.com/post/2016/predicting-triple-j-hottest-100-2015/&quot;&gt;the process taken in 2015&lt;/a&gt;.&lt;/p&gt;</content><author><name>Nick Whyte</name></author><summary type="html">Last year I predicted the top 3 in Triple J’s hottest 100 (ignoring order). This year I’m back at it once again with an updated webpage and a Spotify playlist.</summary></entry><entry><title type="html">Prediction Analysis 2016</title><link href="https://100warmtunas.com/news/2017/12/prediction-analysis-2016/" rel="alternate" type="text/html" title="Prediction Analysis 2016" /><published>2017-12-16T00:00:00+00:00</published><updated>2017-12-16T00:00:00+00:00</updated><id>https://100warmtunas.com/news/2017/12/prediction-analysis-2016</id><content type="html" xml:base="https://100warmtunas.com/news/2017/12/prediction-analysis-2016/">&lt;p&gt;It’s been a long time since the Hottest 100 of 2016 was aired. Unfortunately, I never really got around to publishing some analysis I performed on the &lt;a href=&quot;https://100warmtunas.com/2016/&quot;&gt;prediction results&lt;/a&gt;. Fortunately, I managed to find some time recently!&lt;/p&gt;
+
+&lt;p&gt;Looking from afar, the results don’t look &lt;em&gt;fantastic&lt;/em&gt; (when you compare them to &lt;a href=&quot;https://nickwhyte.com/post/2016/predicting-triple-j-hottest-100-2015/&quot;&gt;my results from 2015&lt;/a&gt; at least). The prediction unfortunately predicted the top two places out of order, however did manage to predict the third place correctly.&lt;/p&gt;
+
+&lt;p&gt;Lets take a look at the Top 10 of Triple J’s list and match it up with 100 Warm Tunas:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/news/static/posts/2017-12-17-100-warm-tunas-2016-analysis/triplej-rank-vs-tuna-rank.png&quot;&gt;
+    &lt;img src=&quot;/news/static/posts/2017-12-17-100-warm-tunas-2016-analysis/triplej-rank-vs-tuna-rank.png&quot; class=&quot;img-responsive&quot; alt=&quot;Triple J Rank vs Tuna Rank&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- { %include linked-img.html src=&quot;&quot; alt=&quot;&quot; caption=&quot;&quot; % } --&gt;
+
+&lt;p&gt;Looking at this we see most predictions we can find some learnings:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The average error for the top ten rank was &lt;code class=&quot;highlighter-rouge&quot;&gt;1.9&lt;/code&gt; rank positions.&lt;/li&gt;
+  &lt;li&gt;If 100 Warm Tunas ignored rank and simply guessed the top ten, it would have predicted &lt;strong&gt;8 of the top 10 songs&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;If 100 Warm Tunas ignored rank and simply guessed the top 3 songs to win, it would have predicted &lt;strong&gt;all 3 songs&lt;/strong&gt;. &lt;em&gt;Woo!&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lets dive into a chart that shows error for all ranks:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/news/static/posts/2017-12-17-100-warm-tunas-2016-analysis/rank-error.png&quot;&gt;
+    &lt;img src=&quot;/news/static/posts/2017-12-17-100-warm-tunas-2016-analysis/rank-error.png&quot; class=&quot;img-responsive&quot; alt=&quot;Rank error per position&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- { %include linked-img.html src=&quot;&quot; alt=&quot;&quot; caption=&quot;&quot; % } --&gt;
+
+&lt;p&gt;From this chart, we can deduce that the further away from position 1 we become, the higher the error. This information alone isn’t very useful. We can get a better understanding of error by finding the average for each ranking group:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/news/static/posts/2017-12-17-100-warm-tunas-2016-analysis/rank-error-avg.png&quot;&gt;
+    &lt;img src=&quot;/news/static/posts/2017-12-17-100-warm-tunas-2016-analysis/rank-error-avg.png&quot; class=&quot;img-responsive&quot; alt=&quot;Average Rank error per group&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- { %include linked-img.html src=&quot;&quot; alt=&quot;&quot; caption=&quot;&quot; % } --&gt;
+
+&lt;p&gt;As we get closer to rank 1, the results become more and more accurate, however they are not perfect. This is more obvious if we use a scatter plot to compare Triple J ranks against Warm Tunas predictions:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/news/static/posts/2017-12-17-100-warm-tunas-2016-analysis/triplej-vs-tunas-scatter.png&quot;&gt;
+    &lt;img src=&quot;/news/static/posts/2017-12-17-100-warm-tunas-2016-analysis/triplej-vs-tunas-scatter.png&quot; class=&quot;img-responsive&quot; alt=&quot;Triple J vs Tunas Scatter Plot&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- { %include linked-img.html src=&quot;&quot; alt=&quot;&quot; caption=&quot;&quot; % } --&gt;
+
+&lt;p&gt;It’s clear now that as we get closer to rank 1, the 100 Warm Tunas prediction gets better and converges upon the actual rankings played out on the day. However, unfortunately this year the difference between rank 1 and rank 2 was way too close to call - just &lt;code class=&quot;highlighter-rouge&quot;&gt;0.67%&lt;/code&gt; of voting volume was separating the two. A difference that was not enough to provide an accurate prediction of the winner.&lt;/p&gt;
+
+&lt;p&gt;Overall, whilst 100 Warm Tunas 2016 did get the two top positions out of order, it’s understandable as to why this happened. Hopefully &lt;a href=&quot;https://100warmtunas.com/2017/&quot;&gt;this year&lt;/a&gt; there is a greater difference between ranks, giving further ability to predict the winner in position #1.&lt;/p&gt;</content><author><name>Nick Whyte</name></author><summary type="html">It’s been a long time since the Hottest 100 of 2016 was aired. Unfortunately, I never really got around to publishing some analysis I performed on the prediction results. Fortunately, I managed to find some time recently!</summary></entry><entry><title type="html">100 Warm Tunas 2016</title><link href="https://100warmtunas.com/news/2017/01/100-warm-tunas-2016/" rel="alternate" type="text/html" title="100 Warm Tunas 2016" /><published>2017-01-04T00:00:00+00:00</published><updated>2017-01-04T00:00:00+00:00</updated><id>https://100warmtunas.com/news/2017/01/100-warm-tunas-2016</id><content type="html" xml:base="https://100warmtunas.com/news/2017/01/100-warm-tunas-2016/">&lt;p&gt;Last year I predicted the top 3 results in order in Triple J’s hottest 100. This year I’m back at it again, however, &lt;a href=&quot;https://100warmtunas.com/2016/&quot;&gt;now with a webpage and a Spotify playlist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Results are collected, optimised, and processed multiple times per day. Instagram images tagged with #hottest100 and a few others are included for counting.&lt;/p&gt;
+
+&lt;p&gt;Happy voting!&lt;/p&gt;
+
+&lt;p&gt;You can read about the &lt;a href=&quot;https://nickwhyte.com/post/2016/predicting-triple-j-hottest-100-2015/&quot;&gt;process last year here&lt;/a&gt;. However, vote collection is a fair bit more accurate this year.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;press&quot;&gt;Press:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://inthemix.junkee.com/computer-science-nerd-predicted-triple-js-hottest-100-results/149015&quot;&gt;A computer science nerd has predicted triple j’s Hottest 100 results&lt;/a&gt; (inthemix)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://junkee.com/computer-science-grad-may-figured-predict-hottest-100/92990&quot;&gt;A Computer Science Grad May Have Figured Out How To Predict The Hottest 100&lt;/a&gt; (Junkee)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stoneyroads.com/2017/01/this-dudes-hottest-100-prediction-method-is-pretty-damn-good&quot;&gt;This Dude’s Hottest 100 Prediction Method Is Pretty Damn Good&lt;/a&gt; (Stoney Roads)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tonedeaf.com.au/495885/biggest-hottest-100-upsets.htm&quot;&gt;We Could Be Looking At One Of The Biggest Hottest 100 Upsets In Years&lt;/a&gt; (Tonedeaf)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chattr.com.au/2017/01/07/hottest-100-2016-results/&quot;&gt;Has the Triple J Hottest 100 2016 Result Been Predicted?&lt;/a&gt; (Chattr)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.oddschecker.com.au/tips/tv-and-specials/20170112-oddschecking-the-triple-j-hottest-100&quot;&gt;Oddschecking The Triple J Hottest 100&lt;/a&gt; (Oddschecker)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thenewdaily.com.au/entertainment/
+/2017/01/15/hottest-100-2016-countdown-prediction/&quot;&gt;Triple J Hottest 100: Computer geek predicts the 2016 countdown&lt;/a&gt; (The New Daily)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://themusic.com.au/news/all/2017/01/21/amy-shark-opens-up-on-the-pressure-of-being-a-hottest-100-favourite/&quot;&gt;Amy Shark Opens Up On The Pressure Of Being A Hottest 100 Favourite&lt;/a&gt; (The Music)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.standard.net.au/story/4410130/who-will-win-triple-js-hottest-100-for-2016/&quot;&gt;Who will win triple j’s Hottest 100 for 2016?&lt;/a&gt; (The Standard)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/music/2017/jan/25/triple-j-hottest-100-crib-notes-up-and-coming-artists-set-to-sweep-the-countdown&quot;&gt;Triple J Hottest 100 crib notes: up-and-coming artists set to sweep the countdown&lt;/a&gt; (The Guardian)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://studentedge.com.au/article/do-we-already-know-the-hottest-100-winner&quot;&gt;Do We Already Know The “Hottest 100” Winner?&lt;/a&gt; (Student Edge)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://musicfeeds.com.au/news/hottest-100-experts-predict-top-2016-countdown&quot;&gt;Hottest 100 Experts On Who They Predict Will Top This Year’s Countdown&lt;/a&gt; (Music Feeds)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dailytelegraph.com.au/subscribe/news/1/index.html?sourceCode=DTWEB_WRE170_a&amp;amp;mode=premium&amp;amp;dest=http://www.dailytelegraph.com.au/entertainment/music/could-amy-shark-or-flume-reach-no-1-on-this-years-hottest-100/news-story/d5499b0a01de8d91c34227868d287539&amp;amp;memtype=anonymous&quot;&gt;Could Amy Shark Or Flume Reach No 1 On This Years Hottest 100&lt;/a&gt; (Daily Telegraph)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;other-mentions&quot;&gt;Other Mentions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.eigenmagic.com/2017/01/25/triplej-hottest-100-predictions-2016-edition/&quot;&gt;TripleJ Hottest 100 Predictions 2016 Edition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://beancounters100.com/blog/&quot;&gt;The Bean Counters – 100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hottest100comp.com/&quot;&gt;Hottest 100 Comp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;small&gt;&lt;strong&gt;Edit:&lt;/strong&gt; Woohoo, the Spotify playlist now has just over 1200 followers, and the website has had over 30,000 hits! That’s massive, thanks everyone!&lt;/small&gt;&lt;/p&gt;</content><author><name>Nick Whyte</name></author><summary type="html">Last year I predicted the top 3 results in order in Triple J’s hottest 100. This year I’m back at it again, however, now with a webpage and a Spotify playlist.</summary></entry></feed>
