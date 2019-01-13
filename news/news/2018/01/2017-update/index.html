@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  
+  
+  <title>2017 Update</title>
+  <meta name="description" content="100 Warm Tunas has been happily chugging away for the last month or so. I’ve obtained a fair amount of media coverage too.">
+  
+
+  <link rel="stylesheet" href="/news/assets/main.css">
+  <link rel="canonical" href="https://100warmtunas.com/news/2018/01/2017-update/">
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="100 Warm Tunas News" href="https://100warmtunas.com/news/feed.xml">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35049161-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-35049161-5');
+</script>
+
+
+  
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:title" content="2017 Update">
+  <meta name="twitter:description" content="100 Warm Tunas has been happily chugging away for the last month or so. I’ve obtained a fair amount of media coverage too.">
+  
+  
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css?family=Bitter:400,400i,700" rel="stylesheet">
+
+  
+
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="/news/">100 Warm Tunas News</a>
+    <div class="site-icon">&#128293;&#128175;</div>
+  </div>
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    
+      <h1 class="post-title" itemprop="name headline">2017 Update</h1>
+    
+    <p class="post-meta"><time datetime="2018-01-23T00:00:00+00:00" itemprop="datePublished">Jan 23, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Nick Whyte</span></span></p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>100 Warm Tunas has been happily chugging away for the last month or so. I’ve obtained a fair amount of media coverage too.</p>
+
+<p>A couple of days back, I posted the site to the <a href="https://reddit.com/r/triplej">triplej subreddit</a>. Someone replied to the post telling me my vote count was significantly less than what they had been counting by hand, which made me somewhat suspicious – was there a bug in my Instagram scraping library that I built?</p>
+
+<p>Well, after a bit of debugging early this morning, I found that there was indeed a bug. Not a bug with my scraping library, but rather a bug with how I was using the library:</p>
+
+<figure class="highlight"><pre><code class="language-patch" data-lang="patch"><span class="gd">-    for page in ig.fetch_pages('triplej', per_page=10):
+</span><span class="gi">+    for page in ig.fetch_pages(hashtag, per_page=10):
+</span>         for post in page.posts:
+             if post.is_video:
+                 logger.info("Skipping {} because it's a video".format(post.shortcode))</code></pre></figure>
+
+<p>For those who are programmers, you’ll probably spot the issue here. For those who aren’t, the issue is that I have been using a hardcoded string to collect Instagram votes, when I thought I was collecting a handful of hashtags.</p>
+
+<p>This has now been rectified and I have kicked off a full re-scrape to back-fill the data.</p>
+
+  </div>
+
+  
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>
+      
+
+&copy;  - Powered by <a href="https://jekyllrb.com">Jekyll</a> &amp; <a href="https://github.com/yous/whiteglass">whiteglass</a> - Subscribe via <a href="https://100warmtunas.com/news/feed.xml">RSS</a>
+
+    </p>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
