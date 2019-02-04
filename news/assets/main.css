@@ -446,6 +446,9 @@ pre {
   font-size: 36px;
   float: right; }
 
+.site-icon a {
+  text-decoration: none; }
+
 table {
   font-size: 14px;
   border-collapse: collapse;
