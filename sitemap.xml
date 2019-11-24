@@ -9,11 +9,15 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://100warmtunas.com/2017/</loc>
+    <loc>https://100warmtunas.com/2018/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://100warmtunas.com/2016/</loc>
+    <loc>https://100warmtunas.com/2017/</loc>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://100warmtunas.com/2016/</loc>
+    <priority>0.3</priority>
   </url>
 </urlset>
