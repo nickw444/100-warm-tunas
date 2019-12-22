@@ -4,7 +4,7 @@ The internet's most accurate prediction of Triple J's Hottest 100, updated daily
 ### What is this?
 
 This is the static webpage deployment repository. You'll most likely be more interested in 
-viewing the results at [https://100warmtunas.com/](https://100warmtunas.com/)
+viewing the results at [https://100warmtunas.com/](https://100warmtunas.com/).
 
 ### How is 100 Warm Tunas deployed?
 
