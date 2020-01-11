@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /2019-dev/
+Disallow:
 Sitemap: https://100warmtunas.com/sitemap.xml
-Sitemap: https://100warmtunas.com/news/sitemap.xml
