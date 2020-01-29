@@ -9,6 +9,12 @@
   </url>
   
   <url>
+    <loc>https://100warmtunas.com/news/2020/01/triple-j-hottest-100-of-the-decade-predictions/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  
+  <url>
     <loc>https://100warmtunas.com/top-200/</loc>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
@@ -24,12 +30,6 @@
     <loc>https://100warmtunas.com/contact-us/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://100warmtunas.com/news/2020/01/triple-j-hottest-100-of-the-decade-predictions/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
   </url>
   
   <url>
