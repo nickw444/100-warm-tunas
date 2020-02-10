@@ -15,9 +15,9 @@
   </url>
   
   <url>
-    <loc>https://100warmtunas.com/top-200/</loc>
-    <changefreq>hourly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://100warmtunas.com/2019/top-200/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   
   <url>
@@ -137,6 +137,12 @@
   
   <url>
     <loc>https://100warmtunas.com/2018/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://100warmtunas.com/2019/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
