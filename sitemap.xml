@@ -11,13 +11,13 @@
   <url>
     <loc>https://100warmtunas.com/2019/top-200/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://100warmtunas.com/top-200/</loc>
+    <loc>https://100warmtunas.com/decade-2010s/top-200/</loc>
     <changefreq>hourly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -46,7 +46,8 @@
   
   <url>
     <loc>https://100warmtunas.com/news/2020/02/everything-you-need-to-know-about-triple-j-hottest-100-of-the-decade/</loc>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
   </url>
   
   <url>
@@ -149,13 +150,13 @@
   <url>
     <loc>https://100warmtunas.com/2016/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.3</priority>
   </url>
   
   <url>
     <loc>https://100warmtunas.com/2017/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.3</priority>
   </url>
   
   <url>
@@ -168,6 +169,12 @@
     <loc>https://100warmtunas.com/2019/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://100warmtunas.com/decade-2010s/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

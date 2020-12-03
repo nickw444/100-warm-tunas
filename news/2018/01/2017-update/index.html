@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="100 Warm Tunas has been happily chugging away for the last month or so. I&#39;ve obtained a fair amount of media coverage too.
+  <meta name="description" content="100 Warm Tunas has been happily chugging away for the last month or so. I&rsquo;ve obtained a fair amount of media coverage too.
 A couple of days back, we posted the site to the triplej subreddit. Someone replied to the post telling me my vote count was significantly less than what they had been counting by hand, which made me somewhat suspicious – was there a bug in my Instagram scraping library that we built?">
   <meta name="author" content="Nick Whyte">
   <link rel="canonical" href="https://100warmtunas.com/news/2018/01/2017-update/"/>
@@ -15,7 +15,7 @@ A couple of days back, we posted the site to the triplej subreddit. Someone repl
   <meta property="og:site_name" content="100 Warm Tunas" />
   <meta property="og:title" content="2017 Update | 100 Warm Tunas"/>
   <meta property="og:type" content="website"/>
-  <meta property="og:description" content="100 Warm Tunas has been happily chugging away for the last month or so. I&#39;ve obtained a fair amount of media coverage too.
+  <meta property="og:description" content="100 Warm Tunas has been happily chugging away for the last month or so. I&rsquo;ve obtained a fair amount of media coverage too.
 A couple of days back, we posted the site to the triplej subreddit. Someone replied to the post telling me my vote count was significantly less than what they had been counting by hand, which made me somewhat suspicious – was there a bug in my Instagram scraping library that we built?"/>
   <title>2017 Update | 100 Warm Tunas</title>
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap" rel="stylesheet">
@@ -99,12 +99,6 @@ A couple of days back, we posted the site to the triplej subreddit. Someone repl
                   <a href="/" title="Home">Home</a>
             </li>
             <li class="header__navItem">
-                  <a href="/top-200/" title="Top 200">Top 200</a>
-            </li>
-            <li class="header__navItem">
-                  <a href="/news/2020/02/everything-you-need-to-know-about-triple-j-hottest-100-of-the-decade/" title="FAQ">FAQ</a>
-            </li>
-            <li class="header__navItem">
                   <a href="/news/" title="News">News</a>
             </li>
             <li class="header__navItem">
@@ -122,6 +116,9 @@ A couple of days back, we posted the site to the triplej subreddit. Someone repl
                         <li class="header__navItem">
                           <a href="/2019/" title="2019">2019</a>
                         </li>
+                        <li class="header__navItem">
+                          <a href="/decade-2010s/" title="Decade 2010&#39;s">Decade 2010&#39;s</a>
+                        </li>
                   </ul>
             </li>
       </ul>
@@ -138,7 +135,7 @@ A couple of days back, we posted the site to the triplej subreddit. Someone repl
   
 </div>
 
-    <div class="article__content"><p>100 Warm Tunas has been happily chugging away for the last month or so. I've obtained a fair amount of media coverage too.</p>
+    <div class="article__content"><p>100 Warm Tunas has been happily chugging away for the last month or so. I&rsquo;ve obtained a fair amount of media coverage too.</p>
 <p>A couple of days back, we posted the site to the <a href="https://reddit.com/r/triplej">triplej subreddit</a>. Someone replied to the post telling me my vote count was significantly less than what they had been counting by hand, which made me somewhat suspicious – was there a bug in my Instagram scraping library that we built?</p>
 <p>Well, after a bit of debugging early this morning, we found that there was indeed a bug. Not a bug with our scraping library, but rather a bug with how we were using the library:</p>
 <p>{% highlight patch %}</p>
@@ -149,10 +146,10 @@ A couple of days back, we posted the site to the triplej subreddit. Someone repl
 <li>for page in ig.fetch_pages(hashtag, per_page=10):
 for post in page.posts:
 if post.is_video:
-logger.info(&ldquo;Skipping {} because it's a video&rdquo;.format(post.shortcode))
+logger.info(&ldquo;Skipping {} because it&rsquo;s a video&rdquo;.format(post.shortcode))
 {% endhighlight %}</li>
 </ul>
-<p>For those who are programmers, you'll probably spot the issue here. For those who aren't, the issue is that we have been using a hardcoded string to collect Instagram votes, when we thought we were collecting a handful of hashtags.</p>
+<p>For those who are programmers, you&rsquo;ll probably spot the issue here. For those who aren&rsquo;t, the issue is that we have been using a hardcoded string to collect Instagram votes, when we thought we were collecting a handful of hashtags.</p>
 <p>This has now been rectified and we have kicked off a full re-scrape to back-fill the data.</p>
 </div>
   </div>
@@ -169,11 +166,7 @@ logger.info(&ldquo;Skipping {} because it's a video&rdquo;.format(post.shortcode
             
               <li><a href="/" title="Home">Home</a></li>
             
-              <li><a href="/top-200/" title="Top 200">Top 200</a></li>
-            
               <li><a href="/news/" title="News">News</a></li>
-            
-              <li><a href="/news/2020/02/everything-you-need-to-know-about-triple-j-hottest-100-of-the-decade/" title="FAQ">FAQ</a></li>
             
               <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
             
