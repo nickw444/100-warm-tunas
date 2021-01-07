@@ -15,6 +15,12 @@
   </url>
   
   <url>
+    <loc>https://100warmtunas.com/top-200/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>https://100warmtunas.com/decade-2010s/top-200/</loc>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
