@@ -103,12 +103,9 @@ Looking from afar, the results don&rsquo;t look fantastic (when you compare them
                   <a href="/" title="Home">Home</a>
             </li>
             <li class="header__navItem">
-                  <a href="/top-200/" title="Top 200">Top 200</a>
-            </li>
-            <li class="header__navItem">
                   <a href="/news/2020/12/everything-you-need-to-know-about-triple-j-hottest-100-of-2020/" title="FAQ">FAQ</a>
             </li>
-            <li class="header__navItem">
+            <li class="header__navItem active">
                   <a href="/news/" title="News">News</a>
             </li>
             <li class="header__navItem">
@@ -125,6 +122,9 @@ Looking from afar, the results don&rsquo;t look fantastic (when you compare them
                         </li>
                         <li class="header__navItem">
                           <a href="/2019/" title="2019">2019</a>
+                        </li>
+                        <li class="header__navItem">
+                          <a href="/2020/" title="2020">2020</a>
                         </li>
                         <li class="header__navItem">
                           <a href="/decade-2010s/" title="Decade 2010&#39;s">Decade 2010&#39;s</a>
@@ -148,8 +148,7 @@ Looking from afar, the results don&rsquo;t look fantastic (when you compare them
     <div class="article__content"><p>It&rsquo;s been a long time since the Hottest 100 of 2016 was aired. Unfortunately, we never really got around to publishing some analysis we performed on the <a href="/2016/">prediction results</a>. Fortunately, we managed to find some time recently!</p>
 <p>Looking from afar, the results don&rsquo;t look <em>fantastic</em> (when you compare them to <a href="https://nickwhyte.com/post/2016/predicting-triple-j-hottest-100-2015/">my results from 2015</a> at least). The prediction unfortunately predicted the top two places out of order, however did manage to predict the third place correctly.</p>
 <p>Lets take a look at the Top 10 of triple j’s list and match it up with 100 Warm Tunas:</p>
-<figure>
-    <img src="triplej-rank-vs-tuna-rank.png"/> <figcaption>
+<figure><img src="triplej-rank-vs-tuna-rank.png"/><figcaption>
             <h4>triple j Rank vs Tuna Rank</h4>
         </figcaption>
 </figure>
@@ -161,22 +160,19 @@ Looking from afar, the results don&rsquo;t look fantastic (when you compare them
 <li>If 100 Warm Tunas ignored rank and simply guessed the top 3 songs to win, it would have predicted <strong>all 3 songs</strong>. <em>Woo!</em></li>
 </ul>
 <p>Lets dive into a chart that shows error for all ranks:</p>
-<figure>
-    <img src="rank-error.png"/> <figcaption>
+<figure><img src="rank-error.png"/><figcaption>
             <h4>Rank error per position</h4>
         </figcaption>
 </figure>
 
 <p>From this chart, we can deduce that the further away from position 1 we become, the higher the error. This information alone isn&rsquo;t very useful. We can get a better understanding of error by finding the average for each ranking group:</p>
-<figure>
-    <img src="rank-error-avg.png"/> <figcaption>
+<figure><img src="rank-error-avg.png"/><figcaption>
             <h4>Average Rank error per group</h4>
         </figcaption>
 </figure>
 
 <p>As we get closer to rank 1, the results become more and more accurate, however they are not perfect. This is more obvious if we use a scatter plot to compare triple j ranks against Warm Tunas predictions:</p>
-<figure>
-    <img src="triplej-vs-tunas-scatter.png"/> <figcaption>
+<figure><img src="triplej-vs-tunas-scatter.png"/><figcaption>
             <h4>triple j vs Tunas Scatter Plot</h4>
         </figcaption>
 </figure>
@@ -197,8 +193,6 @@ Looking from afar, the results don&rsquo;t look fantastic (when you compare them
         <ul>
             
               <li><a href="/" title="Home">Home</a></li>
-            
-              <li><a href="/top-200/" title="Top 200">Top 200</a></li>
             
               <li><a href="/news/" title="News">News</a></li>
             
