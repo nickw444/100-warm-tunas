@@ -39,6 +39,11 @@
   </url>
   
   <url>
+    <loc>https://100warmtunas.com/news/2021/12/everything-you-need-to-know-about-triple-j-hottest-100-of-2021/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>https://100warmtunas.com/news/2020/12/feature-announcement-prediction-settings/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -46,7 +51,8 @@
   
   <url>
     <loc>https://100warmtunas.com/news/2020/12/everything-you-need-to-know-about-triple-j-hottest-100-of-2020/</loc>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
   </url>
   
   <url>
