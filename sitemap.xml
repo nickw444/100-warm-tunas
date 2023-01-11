@@ -39,6 +39,12 @@
   </url>
   
   <url>
+    <loc>https://100warmtunas.com/news/2023/01/buy-me-a-coffee/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  
+  <url>
     <loc>https://100warmtunas.com/news/2022/02/prediction-analysis-2021/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
