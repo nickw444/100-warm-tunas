@@ -45,6 +45,12 @@
   </url>
   
   <url>
+    <loc>https://100warmtunas.com/news/2023/01/ml-model-result-adjustment/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  
+  <url>
     <loc>https://100warmtunas.com/news/2023/01/buy-me-a-coffee/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
