@@ -213,12 +213,6 @@
   
   
   <url>
-    <loc>https://100warmtunas.com/2022/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>https://100warmtunas.com/2016/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
@@ -255,6 +249,12 @@
   </url>
   
   <url>
+    <loc>https://100warmtunas.com/2022/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>https://100warmtunas.com/2021/top-200/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -262,6 +262,12 @@
   
   <url>
     <loc>https://100warmtunas.com/2022/top-200/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://100warmtunas.com/lav-2023/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
